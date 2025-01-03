@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Usuario\Desktop\GymApp2024 - remake\dist\GymAppRemake.jar</jar>
+  <outfile>C:\Users\Usuario\Desktop\appRemake\app.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>true</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\Usuario\Downloads\logo-copia-_2_-Photoroom (1).ico</icon>
+  <classPath>
+    <mainClass>Main.Main</mainClass>
+    <cp>lib/jcommon-1.0.23.jar</cp>
+    <cp>lib/jfreechart-1.0.19.jar</cp>
+  </classPath>
+  <jre>
+    <path>.\jre;%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>17.0.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
