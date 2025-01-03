@@ -1,0 +1,23 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Usuario\Desktop\appRemake\app.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Usuario\Desktop\appRemake\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\BellSoft\LibericaJDK-17-Full\
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\BellSoft\LibericaJDK-17-Full\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Usuario\AppData\Local\Microsoft\WindowsApps;C:\Users\Usuario\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Usuario\.dotnet\tools;C:\Program Files\BellSoft\LibericaJDK-17-Full\\bin
+JRE paths:	.\jre;C:\Program Files\BellSoft\LibericaJDK-17-Full\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\BellSoft\LibericaJDK-17-Full\bin\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Docker\Docker\resources\bin;C:\Users\Usuario\AppData\Local\Microsoft\WindowsApps;C:\Users\Usuario\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Usuario\.dotnet\tools;C:\Program Files\BellSoft\LibericaJDK-17-Full\\bin
+Check launcher:	C:\Users\Usuario\Desktop\appRemake\.\jre\bin\javaw.exe (OK)
+Version string: 1.017.000_011 / 64-Bit (OK)
+Main class:	Main.Main
+Add classpath:	lib\jcommon-1.0.23.jar
+Add classpath:	lib\jfreechart-1.0.19.jar
+Launcher:	C:\Users\Usuario\Desktop\appRemake\.\jre\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\Usuario\Desktop\appRemake\app.exe;lib\jcommon-1.0.23.jar;lib\jfreechart-1.0.19.jar" Main.Main
+Args length:	114/32768 chars
+Exit code:	0
